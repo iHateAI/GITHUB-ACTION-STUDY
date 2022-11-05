@@ -8,5 +8,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(3003, () => {
-  console.log("서버 열림dd");
+  console.log("서버 열림ddd");
 });
