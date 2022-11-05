@@ -4,7 +4,7 @@ const app = express();
 
 app.get("/", (req, res) => {
   console.log("깃허브 액션");
-  res.send("깃허브 액션!!");
+  res.send("깃허브 액션dd!!");
 });
 
 app.listen(3003, () => {
